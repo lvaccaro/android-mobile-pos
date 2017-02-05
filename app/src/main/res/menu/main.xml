@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="vaccarostudio.com.smartphone.gui.smartphone.BatchActivity" >
+    <item android:id="@+id/action_test"
+        android:title="Test"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_buetooth"
+        android:title="Bluetooth"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
